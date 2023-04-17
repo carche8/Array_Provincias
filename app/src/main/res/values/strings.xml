@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My App6</string>
+     <string name="tv_resultado1">Resultado Provincias</string>
+    <string name="tv_resultado2">Resultado Localidades</string>
+</resources>
